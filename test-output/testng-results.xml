@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="7" passed="7" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2020-02-18T17:55:35Z" name="Default suite" finished-at="2020-02-18T17:55:45Z" duration-ms="9224">
+    <groups>
+    </groups>
+    <test started-at="2020-02-18T17:55:35Z" name="Default test" finished-at="2020-02-18T17:55:45Z" duration-ms="9224">
+      <class name="com.qa.restassured.test.Tc003_RestAssured_PUT_Test">
+        <test-method is-config="true" signature="setUP()[pri:0, instance:com.qa.restassured.test.Tc003_RestAssured_PUT_Test@1a0dcaa]" started-at="2020-02-18T17:55:36Z" name="setUP" finished-at="2020-02-18T17:55:36Z" duration-ms="22" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUP -->
+        <test-method is-config="true" signature="UpdateEmployee()[pri:0, instance:com.qa.restassured.test.Tc003_RestAssured_PUT_Test@1a0dcaa]" started-at="2020-02-18T17:55:36Z" name="UpdateEmployee" finished-at="2020-02-18T17:55:44Z" duration-ms="8465" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- UpdateEmployee -->
+        <test-method signature="checkResposeBody()[pri:0, instance:com.qa.restassured.test.Tc003_RestAssured_PUT_Test@1a0dcaa]" started-at="2020-02-18T17:55:44Z" name="checkResposeBody" finished-at="2020-02-18T17:55:45Z" duration-ms="621" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- checkResposeBody -->
+        <test-method signature="checkStatusCode()[pri:1, instance:com.qa.restassured.test.Tc003_RestAssured_PUT_Test@1a0dcaa]" started-at="2020-02-18T17:55:45Z" name="checkStatusCode" finished-at="2020-02-18T17:55:45Z" duration-ms="5" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- checkStatusCode -->
+        <test-method signature="checkStatusLine()[pri:2, instance:com.qa.restassured.test.Tc003_RestAssured_PUT_Test@1a0dcaa]" started-at="2020-02-18T17:55:45Z" name="checkStatusLine" finished-at="2020-02-18T17:55:45Z" duration-ms="7" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- checkStatusLine -->
+        <test-method signature="checkHeaders()[pri:3, instance:com.qa.restassured.test.Tc003_RestAssured_PUT_Test@1a0dcaa]" started-at="2020-02-18T17:55:45Z" name="checkHeaders" finished-at="2020-02-18T17:55:45Z" duration-ms="13" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- checkHeaders -->
+        <test-method signature="checkResponseTime()[pri:4, instance:com.qa.restassured.test.Tc003_RestAssured_PUT_Test@1a0dcaa]" started-at="2020-02-18T17:55:45Z" name="checkResponseTime" finished-at="2020-02-18T17:55:45Z" duration-ms="16" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- checkResponseTime -->
+        <test-method signature="checkCookies()[pri:5, instance:com.qa.restassured.test.Tc003_RestAssured_PUT_Test@1a0dcaa]" started-at="2020-02-18T17:55:45Z" name="checkCookies" finished-at="2020-02-18T17:55:45Z" duration-ms="5" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- checkCookies -->
+        <test-method signature="checkserverType()[pri:6, instance:com.qa.restassured.test.Tc003_RestAssured_PUT_Test@1a0dcaa]" started-at="2020-02-18T17:55:45Z" name="checkserverType" finished-at="2020-02-18T17:55:45Z" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- checkserverType -->
+      </class> <!-- com.qa.restassured.test.Tc003_RestAssured_PUT_Test -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
